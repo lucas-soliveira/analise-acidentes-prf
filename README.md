@@ -38,9 +38,6 @@ Os dados foram extraídos do Kaggle e passaram por um processo de tratamento uti
 
 ## 🖼️ Visualização do Painel
 
-## 🔗 Acesso ao Dashboard
-👉 **[Clique aqui para acessar o Dashboard no Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiZTNmOGNiN2YtN2MyMS00MzdkLWE1ODUtNjAxNTg0MzI5ZmI4IiwidCI6ImIxZjQxMDEzLWU0NDUtNGIzNS1hNzA4LTA2YTk5ZTZjZWQ2ZSJ9)**
-
 ### Dashboard de Indicadores Temporais
 Foco no volume total e janelas críticas de horários.
 > ![Dashboard Temporal](4_imagens/indicadores-p1.png)
@@ -48,6 +45,9 @@ Foco no volume total e janelas críticas de horários.
 ### Análise de Fatores e Severidade
 Detalhamento de causas, tipos de veículos e gravidade dos danos.
 > ![Dashboard Fatores](4_imagens/fatores-p2.png)
+
+## 🔗 Acesso ao Dashboard
+👉 **[Clique aqui para acessar o Dashboard no Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiZTNmOGNiN2YtN2MyMS00MzdkLWE1ODUtNjAxNTg0MzI5ZmI4IiwidCI6ImIxZjQxMDEzLWU0NDUtNGIzNS1hNzA4LTA2YTk5ZTZjZWQ2ZSJ9)**
 
 ---
 
