@@ -4,6 +4,9 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+## 🔗 Acesso ao Dashboard
+👉 **[Clique aqui para acessar o Dashboard no Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiZTNmOGNiN2YtN2MyMS00MzdkLWE1ODUtNjAxNTg0MzI5ZmI4IiwidCI6ImIxZjQxMDEzLWU0NDUtNGIzNS1hNzA4LTA2YTk5ZTZjZWQ2ZSJ9)**
+
 ## 📌 Visão Geral do Projeto
 Este projeto analisa os acidentes em rodovias federais que cortam o estado do **Rio Grande do Norte**. O foco principal foi identificar padrões temporais, causas predominantes e perfis de gravidade para apoiar estratégias de prevenção de acidentes.
 
